@@ -12,9 +12,9 @@ Goal of the Capstone project is to predict Gold Prce and factors inflencing Gold
 1. ARIMA
 2. SARIMAX
 3. Deep Neural networks
-    a). LSTM
-    b). GRU
-5. Correlations between Gold time series and various uncertainities
+   a). LSTM
+   b). GRU
+4. Correlations between Gold time series and various uncertainities
     a. Economic Policy Uncertainty Index for United States
     b. Equity Market-related Economic Uncertainty Index
     c. CBOE Volatility Index
