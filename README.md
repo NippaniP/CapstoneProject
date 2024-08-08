@@ -1,7 +1,7 @@
 # CapstoneProject
 Final Capstone on Gold Price prediction and US uncertainity Index
 Goal of the Capstone project is to predict Gold Prce and factors inflencing Gold price along with impact of economic uncertainity index.
-@ -1,32 +1,3 @@
+
 ### Price prediction model for Gold based on time-series data, US Uncertainity Index, US Volatility Index, Oil Volatility Index and a standalone model using Twitter feed on Gold Price
 
 **Prasanna Nippani**
