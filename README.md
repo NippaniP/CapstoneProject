@@ -106,8 +106,6 @@ Next steps can include a consolidatation of all the 7 models and creating a fore
 
 #### Outline of project
 
-- [Link to notebook 1]()
-
 
 
 ##### Contact and Further Information
