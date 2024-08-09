@@ -105,7 +105,7 @@ Holdout cross validation was implemented. Models were trained on the training se
 Next steps can include a consolidatation of all the 7 models and creating a forecasting approach that rationalizes output from all the models along with the baility to listen to real-time tweet info that affects/influences Gold price. 
 
 #### Outline of project
-
+https://github.com/NippaniP/CapstoneProject/blob/main/FinalTimeSeriesGold.ipynb
 
 
 ##### Contact and Further Information
