@@ -12,19 +12,19 @@ Goal of the Capstone project is to predict Gold Prce and factors inflencing Gold
 1. ARIMA
 2. SARIMAX
 3. Deep Neural networks
-   a). LSTM
-   b). GRU
+   a). LSTM__
+   b). GRU__
 5. Correlations between Gold time series and various uncertainities
-    a. Economic Policy Uncertainty Index for United States
-    b. Equity Market-related Economic Uncertainty Index
-    c. CBOE Volatility Index
-    d. CBOE Gold ETF Volatility Index
-    e. CBOE Crude Oil ETF Volatility Index
+    a. Economic Policy Uncertainty Index for United States__
+    b. Equity Market-related Economic Uncertainty Index__
+    c. CBOE Volatility Index__
+    d. CBOE Gold ETF Volatility Index__
+    e. CBOE Crude Oil ETF Volatility Index__
 6. Correlations between different time series data using linregress
 7. Gold news Tweet Callsification NLP models
-    a. naive bayes model with tfidf vectorizer 
-    b. Logistic Regression model with tfidf vectorizer 
-    c. SVC model with tfidf vectorizer
+    a. naive bayes model with tfidf vectorizer __
+    b. Logistic Regression model with tfidf vectorizer __
+    c. SVC model with tfidf vectorizer__
 
 
 **Findings:** The best forecast was found to be SARIMAX model, although deep Neural network LTSM models did as well with very low MSE of ~300. Clearly for timeseries data, ARIMA and SARIMAX demonstrated better predictions. As for the correlations between Gold price and various factors, Logistic Regression model suggested "Economic Policy Uncertainty Index for United States - USEPUINDXD" had the highest  correlation of 0.35, followed by "Equity Market-related Economic Uncertainty Index -WLEMUINDXD" of 0.31. The other three indexes namely "CBOE Volatility Index- VIXCLS", "CBOE Gold ETF Volatility Index- GVZCLS" and "CBOE Crude Oil ETF Volatility Index-OVXCLS" had equally influence with correlation of 0.28.
