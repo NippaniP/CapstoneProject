@@ -44,7 +44,7 @@ The rationale for this project is to build various ML models to help predict gol
 What's the best model to predict Gold Price and identify correlation and coffiecients for various volatility and indexes.  
 
 #### Data Sources & Citations
-The following data sources were used for this project.
+The following data sources were used for this project.<br />
 Data citations:<br />
 1.Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
 
