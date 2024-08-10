@@ -43,7 +43,7 @@ The rationale for this project is to build various ML models to help predict gol
 #### Research Question
 What's the best model to predict Gold Price and identify correlation and coffiecients for various volatility and indexes.  
 
-#### Data Sources
+#### Data Sources & Citations
 The following data sources were used for this project.
 Data citations:<br />
 1.Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
@@ -94,6 +94,8 @@ Exchange Traded Funds (ETFs) are shares of trusts that hold portfolios of stocks
 Suggested Citation:
 Chicago Board Options Exchange, CBOE Crude Oil ETF Volatility Index [OVXCLS], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/OVXCLS, July 2, 2024.
 
+8. https://github.com/TGajanan/Sentiment-Analysis-of-Commodity-News-Gold-NLP
+9. 
 
 #### Methodology
 Holdout cross validation was implemented. Models were trained on the training set and validated with the test set. Additionally, RandomizedSearchCV was used to evaluate models for NLP using accuracy score and fine tuned each model's hyperparameters to maximize this metric.
