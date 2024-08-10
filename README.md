@@ -1,5 +1,5 @@
 # CapstoneProject
-Final Capstone on Gold Price prediction and US uncertainity Index
+Final Capstone on Gold Price prediction and US uncertainity Index.<br />
 Goal of the Capstone project is to predict Gold Prce and factors inflencing Gold price along with impact of economic uncertainity index.
 
 ### Price prediction model for Gold based on time-series data, US Uncertainity Index, US Volatility Index, Oil Volatility Index and a standalone model using Twitter feed on Gold Price
@@ -61,13 +61,11 @@ https://fred.stlouisfed.org/series/USEPUINDXD
 Suggested Citation:
 Baker, Scott R., Bloom, Nick and Davis, Stephen J., Economic Policy Uncertainty Index for United States [USEPUINDXD], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/USEPUINDXD, July 2, 2024.
 
-
 3. Global Economic Policy Uncertainty Index: Current Price Adjusted GDP (GEPUCURRENT)
 https://fred.stlouisfed.org/series/GEPUCURRENT
 The Global Economic Policy Uncertainty Index is a GDP-weighted average of national EPU indices for 20 countries: Australia, Brazil, Canada, Chile, China, France, Germany, Greece, India, Ireland, Italy, Japan, Mexico, the Netherlands, Russia, South Korea, Spain, Sweden, the United Kingdom, and the United States..
 Suggested Citation:
 Baker, Scott R., Bloom, Nick and Davis, Stephen J., Global Economic Policy Uncertainty Index: Current Price Adjusted GDP [GEPUCURRENT], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GEPUCURRENT, June 27, 2024.
-
 
 4. Equity Market-related Economic Uncertainty Index (WLEMUINDXD)
 https://fred.stlouisfed.org/series/WLEMUINDXD
@@ -98,7 +96,7 @@ Chicago Board Options Exchange, CBOE Crude Oil ETF Volatility Index [OVXCLS], re
 
 
 #### Methodology
-Holdout cross validation was implemented. Models were trained on the training set and validated with the test set. Additionally, RandomizedSearchCV was used to evaluate models using accuracy score, and fine tuned each model's hyperparameters to maximize this metric.
+Holdout cross validation was implemented. Models were trained on the training set and validated with the test set. Additionally, RandomizedSearchCV was used to evaluate models for NLP using accuracy score and fine tuned each model's hyperparameters to maximize this metric.
 
 
 #### Next steps
@@ -108,7 +106,7 @@ Next steps can include a consolidatation of all the 7 models and creating a fore
 https://github.com/NippaniP/CapstoneProject/blob/main/FinalTimeSeriesGold.ipynb
 
 
-##### Contact and Further Information
-# CapstoneProject
-Final Capstone on Gold Price prediction and US uncertainity Index
-Goal of the Capstone project is to predict Gold Prce and factors inflencing Gold price along with impact of economic uncertainity index.
+### Contact and Further Information
+
+Prasanna Nippani
+
